@@ -1,0 +1,90 @@
+[2018-06-04 17:24:25,809][MainThread:4780][task_id:__main__][logging_config.py:110][INFO][Loading Custom Logger Configuration!]
+[2018-06-04 17:29:20,021][MainThread:4172][task_id:__main__][K-Means.py:41][INFO][#PCA算法降维 and 主成分分析 mle -->自动确认最佳分类
+]
+[2018-06-04 17:29:20,021][MainThread:4172][task_id:__main__][K-Means.py:42][INFO][全部贡献率如下：
+]
+[2018-06-04 17:29:20,043][MainThread:4172][task_id:__main__][K-Means.py:46][INFO][#变量方差贡献率 用于剔除贡献率低的维度]
+[2018-06-04 17:29:20,043][MainThread:4172][task_id:__main__][K-Means.py:47][INFO][[0.25878431 0.18921543 0.16297369 0.10169464 0.06492723 0.04905267
+ 0.03967559 0.03587613 0.02713931 0.02302453 0.01768219 0.00998889
+ 0.00818516 0.00697416 0.00480607]]
+[2018-06-04 17:29:20,045][MainThread:4172][task_id:__main__][K-Means.py:49][INFO][自适应贡献率如下:]
+[2018-06-04 17:29:20,051][MainThread:4172][task_id:__main__][K-Means.py:53][INFO][#mle 自动选择维度结果]
+[2018-06-04 17:29:20,051][MainThread:4172][task_id:__main__][K-Means.py:54][INFO][[0.25878431 0.18921543 0.16297369 0.10169464 0.06492723 0.04905267
+ 0.03967559 0.03587613 0.02713931 0.02302453 0.01768219]]
+[2018-06-04 17:29:20,053][MainThread:4172][task_id:__main__][K-Means.py:56][INFO][#KMeans模型确定确定最佳k值]
+[2018-06-04 17:29:31,193][MainThread:4172][task_id:__main__][K-Means.py:70][INFO][1    107
+2     94
+0     13
+dtype: int64]
+[2018-06-05 10:14:51,536][MainThread:6816][task_id:__main__][K-Means.py:30][INFO][config.ini path is: C:\Users\Li.Honghong\PycharmProjects\tensorflow_test/Config/config.ini]
+[2018-06-05 10:14:51,536][MainThread:6816][task_id:__main__][K-Means.py:120][INFO][No section: 'path']
+[2018-06-05 10:16:19,666][MainThread:6688][task_id:__main__][K-Means.py:30][INFO][../Config/config.ini]
+[2018-06-05 10:16:19,666][MainThread:6688][task_id:__main__][K-Means.py:120][INFO][No section: 'path']
+[2018-06-05 10:17:57,140][MainThread:6896][task_id:__main__][K-Means.py:30][INFO][C:\Users\Li.Honghong\PycharmProjects\tensorflow_test/Config/config.ini]
+[2018-06-05 10:17:57,140][MainThread:6896][task_id:__main__][K-Means.py:120][INFO][No section: 'path']
+[2018-06-05 10:18:38,131][MainThread:4280][task_id:__main__][K-Means.py:30][INFO][C:\Users\Li.Honghong\PycharmProjects\tensorflow_test\K_Means/Config/config.ini]
+[2018-06-05 10:18:40,281][MainThread:4280][task_id:__main__][K-Means.py:66][INFO][#PCA算法降维 and 主成分分析 mle -->自动确认最佳分类
+]
+[2018-06-05 10:18:40,282][MainThread:4280][task_id:__main__][K-Means.py:67][INFO][全部贡献率如下：
+]
+[2018-06-05 10:18:40,326][MainThread:4280][task_id:__main__][K-Means.py:71][INFO][#变量方差贡献率 用于剔除贡献率低的维度]
+[2018-06-05 10:18:40,326][MainThread:4280][task_id:__main__][K-Means.py:72][INFO][[0.25878431 0.18921543 0.16297369 0.10169464 0.06492723 0.04905267
+ 0.03967559 0.03587613 0.02713931 0.02302453 0.01768219 0.00998889
+ 0.00818516 0.00697416 0.00480607]]
+[2018-06-05 10:18:40,329][MainThread:4280][task_id:__main__][K-Means.py:74][INFO][自适应贡献率如下:]
+[2018-06-05 10:18:40,335][MainThread:4280][task_id:__main__][K-Means.py:78][INFO][#mle 自动选择维度结果]
+[2018-06-05 10:18:40,335][MainThread:4280][task_id:__main__][K-Means.py:79][INFO][[0.25878431 0.18921543 0.16297369 0.10169464 0.06492723 0.04905267
+ 0.03967559 0.03587613 0.02713931 0.02302453 0.01768219]]
+[2018-06-05 10:18:40,337][MainThread:4280][task_id:__main__][K-Means.py:81][INFO][#KMeans模型确定确定最佳k值]
+[2018-06-05 10:18:49,013][MainThread:11600][task_id:__mp_main__][K-Means.py:30][INFO][C:\Users\Li.Honghong\PycharmProjects\tensorflow_test\K_Means/Config/config.ini]
+[2018-06-05 10:18:49,070][MainThread:7512][task_id:__mp_main__][K-Means.py:30][INFO][C:\Users\Li.Honghong\PycharmProjects\tensorflow_test\K_Means/Config/config.ini]
+[2018-06-05 10:18:49,075][MainThread:10800][task_id:__mp_main__][K-Means.py:30][INFO][C:\Users\Li.Honghong\PycharmProjects\tensorflow_test\K_Means/Config/config.ini]
+[2018-06-05 10:18:49,128][MainThread:608][task_id:__mp_main__][K-Means.py:30][INFO][C:\Users\Li.Honghong\PycharmProjects\tensorflow_test\K_Means/Config/config.ini]
+[2018-06-05 10:18:49,271][MainThread:4280][task_id:__main__][K-Means.py:104][INFO][1    107
+0     94
+2     13
+dtype: int64]
+[2018-06-05 11:18:24,572][MainThread:9680][task_id:__main__][K-Means.py:30][INFO][C:\Users\Li.Honghong\PycharmProjects\tensorflow_test\K_Means/Config/config.ini]
+[2018-06-05 11:18:26,893][MainThread:9680][task_id:__main__][K-Means.py:66][INFO][#PCA算法降维 and 主成分分析 mle -->自动确认最佳分类
+]
+[2018-06-05 11:18:26,893][MainThread:9680][task_id:__main__][K-Means.py:67][INFO][全部贡献率如下：
+]
+[2018-06-05 11:18:26,929][MainThread:9680][task_id:__main__][K-Means.py:71][INFO][#变量方差贡献率 用于剔除贡献率低的维度]
+[2018-06-05 11:18:26,929][MainThread:9680][task_id:__main__][K-Means.py:72][INFO][[0.25878431 0.18921543 0.16297369 0.10169464 0.06492723 0.04905267
+ 0.03967559 0.03587613 0.02713931 0.02302453 0.01768219 0.00998889
+ 0.00818516 0.00697416 0.00480607]]
+[2018-06-05 11:18:26,932][MainThread:9680][task_id:__main__][K-Means.py:74][INFO][自适应贡献率如下:]
+[2018-06-05 11:18:26,939][MainThread:9680][task_id:__main__][K-Means.py:78][INFO][#mle 自动选择维度结果]
+[2018-06-05 11:18:26,939][MainThread:9680][task_id:__main__][K-Means.py:79][INFO][[0.25878431 0.18921543 0.16297369 0.10169464 0.06492723 0.04905267
+ 0.03967559 0.03587613 0.02713931 0.02302453 0.01768219]]
+[2018-06-05 11:18:26,941][MainThread:9680][task_id:__main__][K-Means.py:81][INFO][#KMeans模型确定确定最佳k值]
+[2018-06-05 11:18:35,670][MainThread:12000][task_id:__mp_main__][K-Means.py:30][INFO][C:\Users\Li.Honghong\PycharmProjects\tensorflow_test\K_Means/Config/config.ini]
+[2018-06-05 11:18:35,706][MainThread:4736][task_id:__mp_main__][K-Means.py:30][INFO][C:\Users\Li.Honghong\PycharmProjects\tensorflow_test\K_Means/Config/config.ini]
+[2018-06-05 11:18:35,742][MainThread:11424][task_id:__mp_main__][K-Means.py:30][INFO][C:\Users\Li.Honghong\PycharmProjects\tensorflow_test\K_Means/Config/config.ini]
+[2018-06-05 11:18:35,763][MainThread:224][task_id:__mp_main__][K-Means.py:30][INFO][C:\Users\Li.Honghong\PycharmProjects\tensorflow_test\K_Means/Config/config.ini]
+[2018-06-05 11:18:35,842][MainThread:9680][task_id:__main__][K-Means.py:104][INFO][0    107
+1     94
+2     13
+dtype: int64]
+[2018-06-06 14:32:15,652][MainThread:3916][task_id:__main__][K-Means.py:30][INFO][C:\Users\Li.Honghong\PycharmProjects\tensorflow_test\K_Means/Config/config.ini]
+[2018-06-06 14:32:16,206][MainThread:3916][task_id:__main__][K-Means.py:66][INFO][#PCA算法降维 and 主成分分析 mle -->自动确认最佳分类
+]
+[2018-06-06 14:32:16,206][MainThread:3916][task_id:__main__][K-Means.py:67][INFO][全部贡献率如下：
+]
+[2018-06-06 14:32:16,437][MainThread:3916][task_id:__main__][K-Means.py:71][INFO][#变量方差贡献率 用于剔除贡献率低的维度]
+[2018-06-06 14:32:16,437][MainThread:3916][task_id:__main__][K-Means.py:72][INFO][[0.25878431 0.18921543 0.16297369 0.10169464 0.06492723 0.04905267
+ 0.03967559 0.03587613 0.02713931 0.02302453 0.01768219 0.00998889
+ 0.00818516 0.00697416 0.00480607]]
+[2018-06-06 14:32:16,453][MainThread:3916][task_id:__main__][K-Means.py:74][INFO][自适应贡献率如下:]
+[2018-06-06 14:32:16,469][MainThread:3916][task_id:__main__][K-Means.py:78][INFO][#mle 自动选择维度结果]
+[2018-06-06 14:32:16,469][MainThread:3916][task_id:__main__][K-Means.py:79][INFO][[0.25878431 0.18921543 0.16297369 0.10169464 0.06492723 0.04905267
+ 0.03967559 0.03587613 0.02713931 0.02302453 0.01768219]]
+[2018-06-06 14:32:16,469][MainThread:3916][task_id:__main__][K-Means.py:81][INFO][#KMeans模型确定确定最佳k值]
+[2018-06-06 14:32:23,475][MainThread:6428][task_id:__mp_main__][K-Means.py:30][INFO][C:\Users\Li.Honghong\PycharmProjects\tensorflow_test\K_Means/Config/config.ini]
+[2018-06-06 14:32:23,481][MainThread:7544][task_id:__mp_main__][K-Means.py:30][INFO][C:\Users\Li.Honghong\PycharmProjects\tensorflow_test\K_Means/Config/config.ini]
+[2018-06-06 14:32:23,483][MainThread:6684][task_id:__mp_main__][K-Means.py:30][INFO][C:\Users\Li.Honghong\PycharmProjects\tensorflow_test\K_Means/Config/config.ini]
+[2018-06-06 14:32:23,496][MainThread:7760][task_id:__mp_main__][K-Means.py:30][INFO][C:\Users\Li.Honghong\PycharmProjects\tensorflow_test\K_Means/Config/config.ini]
+[2018-06-06 14:32:23,823][MainThread:3916][task_id:__main__][K-Means.py:104][INFO][0    107
+1     94
+2     13
+dtype: int64]
